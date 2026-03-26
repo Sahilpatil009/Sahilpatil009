@@ -4,17 +4,11 @@
  
 I'm a **Full Stack AI Developer** passionate about building **intelligent, scalable, and user-centric applications**.
 
-- 🔭 Currently building: AI-powered full stack applications  
-- 🧠 Deep interest in: LLMs, machine learning, and backend system design  
-- 💡 Focus: DSA + system design for top tech companies  
-- ⚡ Fun fact: I enjoy turning complex problems into clean, efficient solutions  
+- Currently building: AI-powered full stack applications  
+- Deep interest in: LLMs, machine learning, and backend system design  
+- Focus: DSA + system design for top tech companies  
+- Fun fact: I enjoy turning complex problems into clean, efficient solutions  
 
----
-
-## 📈 Achievements
-- 🚀 Solved 300+ DSA problems on LeetCode  
-- ⚡ Built 4+ full stack projects  
-- 🧠 Strong focus on system design & scalable apps  
 
 ---
 
