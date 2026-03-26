@@ -12,22 +12,8 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
-## 📚 Currently Learning
-- Large Language Models (LLMs)
-- LangChain & AI Agents
-- Advanced Backend System Design
-
----
-
-## 🧩 DSA & Problem Solving
-- Practicing daily (LeetCode + Core DSA)
-- Strong in: Arrays, DP, Graphs, Recursion
-- Goal: Crack top product-based companies
-
----
-
-## 🎯 Goal
-To build scalable AI-driven systems and work at top tech companies, solving real-world problems at scale.
+## Goal
+To become a strong engineer and build an AI SaaS startup focused on solving real-world problems.
 
 ---
 
@@ -117,7 +103,7 @@ To build scalable AI-driven systems and work at top tech companies, solving real
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Patil-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Sahil-%23FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Patil-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patil-0643a7315/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sahil-%23FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahilpatil_22/)  
 
 ---
