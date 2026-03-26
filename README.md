@@ -12,11 +12,6 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
-## Goal
-To build my own AI startup and create products that solve real-world problems.
-
----
-
 # 💻 Tech Stack:
 
 ## 🧠 AI / Machine Learning
@@ -58,27 +53,6 @@ To build my own AI startup and create products that solve real-world problems.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 AI-Powered Blog Platform
-🔗 https://github.com/Sahilpatil009/blog-app  
-- Built using MERN stack  
-- Implemented authentication & CRUD APIs  
-- Optimized backend for scalability  
-
-### ⚙️ Project Management System
-🔗 https://github.com/Sahilpatil009/project-management-application  
-- Task tracking + workflow automation  
-- REST API + frontend integration  
-- Real-world productivity use case  
-
-### 🚨 Accident Detection System
-🔗 https://github.com/Sahilpatil009/Accident_Detection  
-- Real-time detection using sensors  
-- Alert system with dashboard  
-- End-to-end system (hardware + backend + UI)
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sahilpatil009&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -97,10 +71,6 @@ To build my own AI startup and create products that solve real-world problems.
 
 ---
 
-### ✍️ Dev Quote
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Patil-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patil-0643a7315/)  
