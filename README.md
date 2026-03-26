@@ -11,6 +11,32 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
+## 📈 Achievements
+- 🚀 Solved 300+ DSA problems on LeetCode  
+- ⚡ Built 4+ full stack projects  
+- 🧠 Strong focus on system design & scalable apps  
+
+---
+
+## 📚 Currently Learning
+- Large Language Models (LLMs)
+- LangChain & AI Agents
+- Advanced Backend System Design
+
+---
+
+## 🧩 DSA & Problem Solving
+- Practicing daily (LeetCode + Core DSA)
+- Strong in: Arrays, DP, Graphs, Recursion
+- Goal: Crack top product-based companies
+
+---
+
+## 🎯 Goal
+To build scalable AI-driven systems and work at top tech companies, solving real-world problems at scale.
+
+---
+
 # 💻 Tech Stack:
 
 ## 🧠 AI / Machine Learning
@@ -50,27 +76,27 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 🚀 Projects
+---
 
-### 🔹 [Blog App](https://github.com/Sahilpatil009/blog-app)
-- Full-stack blog platform  
-- CRUD operations for posts  
-- Clean UI with backend integration  
+## 🚀 Featured Projects
 
-### 🔹 [Project Management Application](https://github.com/Sahilpatil009/project-management-application)
-- Task & project tracking system  
-- Organized workflow management  
-- Backend + frontend integration  
+### 🧠 AI-Powered Blog Platform
+🔗 https://github.com/Sahilpatil009/blog-app  
+- Built using MERN stack  
+- Implemented authentication & CRUD APIs  
+- Optimized backend for scalability  
 
-### 🔹 [Network Security](https://github.com/Sahilpatil009/network-security)
-- Security-focused implementation  
-- Concepts of authentication & protection  
-- Practical cybersecurity learning  
+### ⚙️ Project Management System
+🔗 https://github.com/Sahilpatil009/project-management-application  
+- Task tracking + workflow automation  
+- REST API + frontend integration  
+- Real-world productivity use case  
 
-### 🔹 [IoT Accident Detection System](https://github.com/Sahilpatil009/Accident_Detection)
-- MPU6050 + GPS + GSM + Arduino  
-- Fuzzy Logic-based accident detection  
-- Real-time alerts + Flask dashboard  
+### 🚨 Accident Detection System
+🔗 https://github.com/Sahilpatil009/Accident_Detection  
+- Real-time detection using sensors  
+- Alert system with dashboard  
+- End-to-end system (hardware + backend + UI)
 
 ---
 
@@ -92,7 +118,7 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 ---
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> *"First, solve the problem. Then, write the code."* – John Johnson
 
 ---
 
