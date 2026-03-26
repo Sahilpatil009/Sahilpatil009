@@ -13,7 +13,7 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 ---
 
 ## Goal
-To become a strong engineer and build an AI SaaS startup focused on solving real-world problems.
+To build my own AI startup and create products that solve real-world problems.
 
 ---
 
