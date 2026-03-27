@@ -56,14 +56,6 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahilpatil009&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sahilpatil009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpatil009&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🌡️ Contribution Heatmap
  
 <div align="center">
@@ -73,6 +65,13 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 </div> 
 
 ---
+
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=sahilpatil009&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpatil009&theme=dark&hide_border=false&layout=compact)
+
+---
+
 
 
 ## 🌐 Socials:
