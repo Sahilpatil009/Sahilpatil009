@@ -67,7 +67,6 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 ---
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=sahilpatil009&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpatil009&theme=dark&hide_border=false&layout=compact)
 
 ---
