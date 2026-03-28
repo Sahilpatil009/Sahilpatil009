@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 <br><br>
 
-## 👨‍💻 About Me
+## About Me
  
 > *"Talk is cheap. Show me the code." – Linus Torvalds*
  
@@ -15,9 +15,9 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 
-## 🧠 AI / Machine Learning
+## AI / Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,7 +27,7 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
-## 🌐 Frontend Development
+## Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,20 +35,20 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## 🗄️ Databases
+## Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 🛠️ Programming & Tools
+## Programming & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -56,7 +56,7 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
-## 🌡️ Contribution Heatmap
+## Contribution Heatmap
  
 <div align="center">
  
