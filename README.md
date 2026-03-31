@@ -66,8 +66,19 @@ I'm a **Full Stack AI Developer** passionate about building **intelligent, scala
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpatil009&theme=dark&hide_border=false&layout=compact)
+# GitHub Stats:
+<div align="center">
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+![Developer GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hkMG5nMHkwcnFjMmtpb2x0ZDg0dXpkZTZiYnNjcTV6N2U5amR1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WE59KFXbaf6tsAn2zW/giphy.gif)
+
+
+  </div>
 
 ---
 
